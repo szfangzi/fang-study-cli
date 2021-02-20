@@ -1,0 +1,8 @@
+{
+  "packages": [
+    "core/*",
+    "ui/*",
+    "utils/*"
+  ],
+  "version": "0.0.0"
+}
